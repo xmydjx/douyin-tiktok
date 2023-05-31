@@ -1,5 +1,5 @@
 # douyin-tiktok
-直播间signature，生成mstoken，tiktok  
+直播间、signature，mstoken，tiktok  
 
 
 的
