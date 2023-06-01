@@ -2,8 +2,9 @@
 dy直播间、signature，mstoken，tiktok  X-Bogus  x-s
 
 
-的
+
 q:2576566743
+
 douyin 直播间
 ![1685526746422](https://github.com/xmydjx/douyin-tiktok/assets/47141266/b5ff82d9-971b-40e0-bd30-601dc28a845b)
 tiktok   mstoken  signature  X-Bogus
